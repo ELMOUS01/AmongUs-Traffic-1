@@ -1,4 +1,6 @@
 {
-    "Link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DJ69XVCD",
-    "PngUrl": "https://github.com/ELMOUS01/Testttt/blob/main/K1NQKi5Y-o8hd.jpg?raw=true"
+    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DJ69XVCD",
+    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DJ69XVCD",
+    "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DJ69XVCD",
+    "Link4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DJ69XVCD"
 }
